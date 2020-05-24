@@ -22,4 +22,4 @@ Dieses Projekt steht unter der MIT-License [LICENSE.md](LICENSE.md)
 
 ### Danke an:
 
-[jQuery](https://jquery.com/), [tailwindcss](https://github.com/tailwindcss), [Unleashed-Design](https://github.com/Unleashed-Design) und [burncode](https://github.com/burncode)
+[jQuery](https://jquery.com/), [tailwindcss](https://github.com/tailwindcss), [Unleashed-Design](https://github.com/Unleashed-Design) und [burncode](https://github.com/burncode) 
