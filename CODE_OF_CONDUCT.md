@@ -1,1 +1,1 @@
-Beachte bitte die [MIT-License](LICENSE.md)📕️, sonst nichts 😛️.
+Beachte bitte die [MIT-License](LICENSE)📕️, sonst nichts 😛️.
