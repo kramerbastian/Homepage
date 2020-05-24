@@ -18,7 +18,7 @@ Zurzeit suche ich noch eine Idee wie man die Website auf Geräten mit kleineren 
 
 ### Lizenz
 
-Dieses Projekt steht unter der MIT-License [LICENSE.md](LICENSE.md)
+Dieses Projekt steht unter der MIT-License [LICENSE](LICENSE)
 
 ### Danke an:
 
