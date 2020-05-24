@@ -1,10 +1,11 @@
 {
   "name": "website",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A website for me",
   "main": "gulpfile.js",
   "scripts": {
-    "dev": "sudo gulp dev"
+    "dev": "gulp dev",
+    "build": "gulp build"
   },
   "author": "Bastian Kramer",
   "license": "MIT",
