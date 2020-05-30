@@ -116,7 +116,7 @@ const script = () => {
 };
 
 // Function to watch our Changes and refreash page
-const watch = () => gulp.watch([`${src}/*.html`, `${src}/js/**/*.js`, `${src}/css/*.css`], gulp.series(css, script, html, reload));
+const watch = () => gulp.watch([`${src}/*.html`, `${src}/js/*.js`, `${src}/css/*.css`], gulp.series(css, script, html, reload));
 
 // All Tasks for this Project
 const dev = gulp.series(css, script, html, serve, watch);
